@@ -11,8 +11,5 @@ You can click the Preview link to take a look at your changes. -->
 |-------------------------|-------------------------|
 *GOALS* <br><br> ★ Read 444 books, [checkout goodreads](https://www.goodreads.com/user/show/14689670-molly) <br> ★ 800 credit score <br>★ RELAX in the sun | *FUN FACTS* (✿◠‿◠) <br><br> ★ I have a blind 10 year old chihuahua named *Jasmine/Jazz* <br> ★ I normally workout 5 days/week, health is important to me <br> ★ spend most of my time in the sun or on a paddleboard, SUPyoga! <br>
 
-*check out what I'm currently listening to at this very moment →* 
-
-[<p align="left">![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vvc2il62xv5jdpqgyoyk2h2psm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=FF00CC&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
 
